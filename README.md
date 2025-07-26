@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br>Aspiring Full Stack Developer with a knack for turning ideas into scalable web applications. I'm currently pursuing B.Tech in CSE at KIET Group of Institutions, actively building real-world projects using modern web technologies.<br><br>🛠️ Tech Stack: Proficient in Next.js, React, TypeScript, Tailwind CSS, PrismaORM, PostgresSQL, and Node.js, with hands-on experience in authentication, REST APIs, and AI integrations.<br>🚀 Projects: Working on Jobotics: AI-Powered Recruitment & Job-Seeking Platform<br>🌱 Currently Learning: Advanced DSA (C++)<br>💬 Ask Me About: MERN/Next.js stack, Reactjs,  and Data Structure and Algorithms<br>📫 Reach Out: ayushml1247@gmail.com<br>📍 Location: Uttar Pradesh, India
+Aspiring Full Stack Developer with a knack for turning ideas into scalable web applications. I'm currently pursuing B.Tech in CSE at KIET Group of Institutions, actively building real-world projects using modern web technologies.<br><br>🛠️ Tech Stack: Proficient in Next.js, React, TypeScript, Tailwind CSS, PrismaORM, PostgresSQL, and Node.js, with hands-on experience in authentication, REST APIs, and AI integrations.<br>🚀 Projects: Working on Jobotics: AI-Powered Recruitment & Job-Seeking Platform<br>🌱 Currently Learning: Advanced DSA (C++)<br>💬 Ask Me About: MERN/Next.js stack, Reactjs,  and Data Structure and Algorithms<br>📫 Reach Out: ayushml1247@gmail.com<br>📍 Location: Uttar Pradesh, India
 
 
 ## 🌐 Socials:
@@ -14,14 +14,14 @@ As a solo developer, I designed and built "Jobotics," a full-stack web applicati
 
 <b>Key Achievements & Technologies:</b><br>
 
-• <b>Full-Stack Development</b>: Architected and implemented the platform using Next.js (App Router), React.js, and TypeScript.<br>  
-• <b>HR Dashboard</b>: Created a dynamic interface for HRs to manage job listings (CRUD), monitor applicants, and automate interview scheduling using Google Calendar & Gmail APIs.<br>  
-• <b>Candidate Portal</b>: Enabled users to explore job/internship listings, upload resumes (via Vercel Blob), manage profiles, and track applications.<br>  
-• <b>AI Resume Matching</b>: Integrated Google Gemini API for skill extraction to match candidates with jobs intelligently.<br>  
-• <b>Email Notifications</b>: Set up automatic emails for interview invites and application updates.<br>  
-• <b>Database Management</b>: Utilized Prisma ORM with PostgreSQL for scalable and reliable data modeling.<br>  
-• <b>Secure Auth</b>: Integrated NextAuth.js with role-based access (HR/Candidate), supporting Google/GitHub OAuth and credentials.<br>  
-• <b>Modern UI/UX</b>: Built a polished, responsive interface using Tailwind CSS, Shadcn UI, and Framer Motion.<br><br>
+• <b>Full-Stack Development</b>: Architected and implemented the platform using Next.js (App Router), React.js, and TypeScript.
+• <b>HR Dashboard</b>: Created a dynamic interface for HRs to manage job listings (CRUD), monitor applicants, and automate interview scheduling using Google Calendar & Gmail APIs.  
+• <b>Candidate Portal</b>: Enabled users to explore job/internship listings, upload resumes (via Vercel Blob), manage profiles, and track applications. 
+• <b>AI Resume Matching</b>: Integrated Google Gemini API for skill extraction to match candidates with jobs intelligently. 
+• <b>Email Notifications</b>: Set up automatic emails for interview invites and application updates.
+• <b>Database Management</b>: Utilized Prisma ORM with PostgreSQL for scalable and reliable data modeling. 
+• <b>Secure Auth</b>: Integrated NextAuth.js with role-based access (HR/Candidate), supporting Google/GitHub OAuth and credentials.
+• <b>Modern UI/UX</b>: Built a polished, responsive interface using Tailwind CSS, Shadcn UI, and Framer Motion.<br>
 
 This project demonstrates my ability to build complete, scalable, and AI-integrated platforms from scratch.<br>
 
