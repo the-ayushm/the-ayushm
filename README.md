@@ -10,7 +10,7 @@ Aspiring Full Stack Developer with a knack for turning ideas into scalable web a
 
 # 🚀 Projects:
 <b>Jobotics: AI-Powered Recruitment & Job-Seeking Platform</b><br>
-As a solo developer, I designed and built "Jobotics," a full-stack web application serving both HR professionals and job/internship seekers.<br><br>
+As a solo developer, I designed and built "Jobotics," a full-stack web application serving both HR professionals and job/internship seekers.<br>
 
 <b>Key Achievements & Technologies:</b><br>
 
@@ -33,4 +33,4 @@ This project demonstrates my ability to build complete, scalable, and AI-integra
 ---
 [![](https://visitcount.itsvg.in/api?id=the-ayushm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
