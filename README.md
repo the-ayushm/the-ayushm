@@ -15,7 +15,7 @@ As a solo developer, I designed and built "Jobotics," a full-stack web applicati
 <b>Key Achievements & Technologies:</b><br>
 
 • <b>Full-Stack Development</b>: Architected and implemented the platform using Next.js (App Router), React.js, and TypeScript.<br>
-• <b>HR Dashboard</b>: Created a dynamic interface for HRs to manage job listings (CRUD), monitor applicants, and automate interview scheduling using Google Calendar & Gmail APIs.<br>  
+• <b>HR Dashboard</b>: Created a dynamic interface for HRs to manage job listings (CRUD), monitor applicants, and automate interview scheduling using Google Calendar & Gmail APIs.
 • <b>Candidate Portal</b>: Enabled users to explore job/internship listings, upload resumes (via Vercel Blob), manage profiles, and track applications.<br> 
 • <b>AI Resume Matching</b>: Integrated Google Gemini API for skill extraction to match candidates with jobs intelligently.<br> 
 • <b>Email Notifications</b>: Set up automatic emails for interview invites and application updates.<br>
